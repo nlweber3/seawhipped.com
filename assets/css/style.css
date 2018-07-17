@@ -1,0 +1,53 @@
+#logo {
+    font-family: 'Courgette', cursive;
+    margin-left: 20px;
+}
+body {
+    background: grey;
+}
+#test {
+    height: 10000px;
+}
+nav {
+background-color: #404040;
+}
+#name {
+    font-family: 'Permanent Marker', cursive;
+}
+.img-circle {
+    border-radius: 50%;
+}
+#cj {
+    height: 300px;
+}
+
+.sk-instagram-feed {
+padding: 10px;
+margin-top: 50px;
+margin-left: 100px;
+}
+.insta {
+    height: 100px;
+    width: 100px;
+}
+.coming-soon {
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+    margin-top: 300px;
+}
+.cs-div {
+    text-align: center;
+    margin-bottom: 500px;
+}
+.footer {
+    align-content: center;
+}
+#copy-foot {
+    background: black;
+}
+#foot {
+    background: #404040;
+}
+.white-text {
+    font-family: 'Permanent Marker', cursive;
+}
