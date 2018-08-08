@@ -69,3 +69,8 @@ background-color: #404040;
 .name-text {
     font-family: 'Permanent Marker', cursive;
     color: #707070;
+}
+#porthole {
+height: 700px;
+width: 600px;
+}
